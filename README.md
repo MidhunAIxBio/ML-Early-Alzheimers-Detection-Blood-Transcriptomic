@@ -1,4 +1,7 @@
 # ML-Based Early Alzheimer’s Detection Using Blood Transcriptomics
+## 🧠 Project Workflow
+
+![Workflow](docs/workflow.png)
 
 ## 📖 Project Overview
 This project integrates multi-GEO bulk RNA-seq datasets to identify early biomarkers of Alzheimer’s disease using differential expression analysis, protein-protein interaction (PPI) network analysis, and machine learning.
